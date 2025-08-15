@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # AI Financial Analyst
 
@@ -73,3 +74,7 @@ AI_Financial_Analyst/
 
 ---
 
+=======
+# financial-ai-multi-agent
+Multi-agent AI system for financial research &amp; stock recommendations using CrewAI and Groq API
+>>>>>>> 443401f6d1d2f3e3c577994bb0134c2d6b3fbcdc
